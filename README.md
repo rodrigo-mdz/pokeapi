@@ -131,23 +131,7 @@ Browse [localhost/api/v2/](http://localhost/api/v2/) or [localhost/api/v2/pokemo
 
 This setup doesn't allow you to use the `scale` command.
 
-## Donations
 
-Help to keep PokéAPI running! If you're using PokéAPI as a teaching resource or for a project, consider sending us a $10 donation to help keep the service up. We get almost 20 million requests a month!
-
-Thank you to all our backers! [Become a backer](https://opencollective.com/pokeapi#backer)
-
-<a href="https://opencollective.com/pokeapi#backers" target="_blank"><img src="https://opencollective.com/pokeapi/backers.svg?width=890"></a>
-
-## Contributing
-
-This project exists thanks to all the people who [contribute](https://github.com/PokeAPI/pokeapi/blob/master/CONTRIBUTING.md)
-
-<a href="graphs/contributors"><img src="https://opencollective.com/pokeapi/contributors.svg?width=890" /></a>
-
-All contributions are welcome: bug fixes, data contributions, recommendations.
-
-Please see the [issues on GitHub](https://github.com/PokeAPI/pokeapi/issues) before you submit a pull request or raise an issue, someone else might have beat you to it.
 
 To contribute to this repository:
 
